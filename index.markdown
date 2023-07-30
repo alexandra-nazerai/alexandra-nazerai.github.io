@@ -8,7 +8,7 @@ title: Alexandra Nazerai
 
 ### Hi,
 
-I am a PhD Candidate in Economics at the [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/economic-social-and-political-sciences). In the academic year 2022/23, I am a visiting scholar at UC Berkeley during fall and at MIT during spring.
+I am a PhD Candidate in Economics at the [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/economic-social-and-political-sciences). 
 
 My research areas focuses on the consequences of labour market policies and institutions in a changing world of work. ...
 
