@@ -83,13 +83,13 @@ content:
           ...
         description: | # this will include new lines to allow paragraphs
             ...
-            
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: (under construction ...)
-        caption: ...
+        title: University of Southampton (UK)
+        caption: PhD
         sub_title: ...
         quote: >
           ...
