@@ -5,8 +5,7 @@ menu: main
 permalink: /research/
 ---
 
-## Research
-### Working Paper 
+### Working Paper
 #### The Impact of Welfare Reforms on the Mental Health of Working-Age Individuals in the UK
 (with Prof. Corrado Giulietti and Prof. Michael Vlassopoulos)
 
