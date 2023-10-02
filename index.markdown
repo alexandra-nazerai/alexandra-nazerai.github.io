@@ -6,6 +6,10 @@ layout: about
 title: Alexandra Nazerai
 ---
 
-### (Under construction)
+### Hello,
 
-I am a PhD Candidate in Economics at the [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/economic-social-and-political-sciences).
+I am a PhD candidate at the University of Southampton.
+
+My research focuses on labor market policies ...
+
+Feel free to reach out via [email](mailto:an1e18@soton.ac.uk) or [Twitter](https://twitter.com/a_nazerai).
