@@ -8,6 +8,6 @@ title: Alexandra Nazerai
 
 ### Hello,
 
-I am a PhD candidate at the [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/economic-social-and-political-sciences). My research interests include areas of applied microeconomics. More specifically, I focus in health and labour economics.
+I am a PhD candidate in Economics at the [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/economic-social-and-political-sciences). My research interests include areas of applied microeconomics. More specifically, I focus in health and labour economics.
 
 Feel free to reach out via [email](mailto:an1e18@soton.ac.uk) or [Twitter](https://twitter.com/a_nazerai).
